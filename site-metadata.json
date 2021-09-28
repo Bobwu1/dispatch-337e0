@@ -28,7 +28,8 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "images/DekeLogo-Color-RGB.png"
     },
     "footer": {
         "has_nav": true,
