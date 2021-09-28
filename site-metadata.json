@@ -29,7 +29,8 @@
                 "style": "primary"
             }
         ],
-        "logo": "images/DekeLogo-Color-RGB.png"
+        "logo": "images/DekeLogo-Color-RGB.png",
+        "logo_alt": "Deke logo"
     },
     "footer": {
         "has_nav": true,
